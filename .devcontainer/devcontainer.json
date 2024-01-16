@@ -1,0 +1,4 @@
+{
+  "name": "bigbox",
+  "image": "sunlab/bigbox:latest",
+}
